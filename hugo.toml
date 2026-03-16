@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hoaraujerome.github.io/tech-blog/'
 languageCode = 'en-us'
 title = 'Hoarau Jerome Tech Blog'
 theme = 'PaperMod'
-# enableRobotsTXT = true
+enableRobotsTXT = true
 # paginate = 5
 # defaultContentLanguage = "en"
 #
@@ -49,3 +49,6 @@ theme = 'PaperMod'
 # # Build options
 # [build]
 #   writeStats = true
+
+[environments.development]
+baseURL = 'https://example.org/'
