@@ -1,0 +1,51 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hoarau Jerome Tech Blog'
+theme = 'PaperMod'
+# enableRobotsTXT = true
+# paginate = 5
+# defaultContentLanguage = "en"
+#
+# # Author info
+# [author]
+#   name = "Jay Ho"
+#   bio = "Platform engineer, DevOps, Kubernetes, Terraform, and infrastructure as code enthusiast."
+#
+# # Params for PaperMod theme
+# [params]
+#   mainSections = ["posts"]
+#   dateFormat = "Jan 2, 2006"          # Hugo date format
+#   highlightStyle = "monokai"          # code block style
+#   highlightLineNumbers = true
+#   disableSiteSearch = false
+#   showReadingTime = true
+#   showShareButtons = true
+#   showPageNav = true
+#   favicon = "favicon.ico"
+#   showThemeToggle = true               # dark/light mode
+#   disableLangToggle = true
+#
+# # Social links
+# [params.social]
+#   github = "https://github.com/jayho"
+#   linkedin = "https://www.linkedin.com/in/jayho/"
+#   twitter = "https://twitter.com/jayho"
+#
+# # SEO & metadata
+# [params.seo]
+#   description = "Jay Ho's technical blog: DevOps, Kubernetes, Terraform, and platform engineering notes."
+#   keywords = ["DevOps", "Kubernetes", "Terraform", "Platform Engineering", "Hugo", "PaperMod"]
+#
+# # Permalinks
+# [permalinks]
+#   posts = "/posts/:slug/"
+#
+# # Sitemap config
+# [sitemap]
+#   changefreq = "weekly"
+#   priority = 0.5
+#   filename = "sitemap.xml"
+#
+# # Build options
+# [build]
+#   writeStats = true
