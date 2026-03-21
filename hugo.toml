@@ -25,8 +25,8 @@ enableRobotsTXT = true
     dir = ':cacheDir/images'
 
 [[menu.main]]
-  name = "Index"
-  url = "/"
+  name = "About"
+  url = "/about/"
   weight = 1
 
 [[menu.main]]
