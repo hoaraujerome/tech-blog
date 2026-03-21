@@ -34,10 +34,5 @@ enableRobotsTXT = true
   url = "/posts/"
   weight = 2
 
-[[menu.main]]
-  name = "Links"
-  url = "/links/"
-  weight = 3
-
 [environments.development]
 baseURL = 'http://localhost:1313/tech-blog/'
