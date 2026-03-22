@@ -1,6 +1,6 @@
 baseURL = 'https://hoaraujerome.github.io/tech-blog/'
 languageCode = 'en-us'
-title = 'Hoarau Jerome Tech Blog'
+title = 'Hoarau Jerome | Building Cloud & Kubernetes Systems'
 copyright = "© 2026 Hoarau Jerome · Site last updated: March 2026"
 theme = 'PaperMod'
 enableRobotsTXT = true
@@ -25,13 +25,13 @@ enableRobotsTXT = true
     dir = ':cacheDir/images'
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "Blog"
+  url = "/posts/"
   weight = 1
 
 [[menu.main]]
-  name = "Blog"
-  url = "/posts/"
+  name = "About"
+  url = "/about/"
   weight = 2
 
 [environments.development]

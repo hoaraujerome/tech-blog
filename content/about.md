@@ -1,68 +1,50 @@
 ---
 title: "About"
 ---
-# About
 
-Hi, I’m Jay — a platform engineer based in Canada.
+Hi, I’m Jerome. A platform engineer with nearly 20 years of experience in software engineering across multiple countries.
 
-I’ve spent over 15 years in software engineering, mostly in large-scale environments like banking and public sector systems. Over time, I moved closer to infrastructure and now focus on **platform engineering, Kubernetes, cloud (AWS), and Infrastructure as Code**.
+I’ve worked in large-scale environments in banking, public sector systems, and distributed teams, gradually moving closer to infrastructure, platform engineering, Kubernetes, cloud (AWS, Azure), and Infrastructure as Code.
 
-## What this blog is about
+I’m curious, love building things, and stay up to date by experimenting, learning from real systems, and keeping an eye on emerging areas. Lately, I’ve been diving into AI infrastructure, exploring how to bridge cloud, automation, and intelligent systems through hands-on projects.
 
-This blog is a place where I document what I learn and build.
+This blog is where I document what I learn by doing, sharing experiments, side projects, and lessons from real-world problems. I strongly believe in learning by getting your hands dirty, not just consuming theory.
 
-You’ll mostly find content around:
+## What I’m working on
 
-* Kubernetes (including “the hard way” setups)
-* Terraform and Infrastructure as Code patterns
-* Cloud architecture on AWS
-* DevOps practices and tooling
-* Security and platform reliability
-* My journey into AI from an engineering perspective
+I’m actively exploring and building things like:
 
-I aim to keep posts **practical, reproducible, and opinionated when needed**.
+* [Kubernetes The Hard Way On AWS](https://github.com/hoaraujerome/kubernetes-the-hard-way-on-aws)
+* [Kubernetes Homelab](https://github.com/hoaraujerome/k8s-homelab)
+* Automating my local environment with a [dotfiles-as-code](https://github.com/hoaraujerome/dotfiles) setup
+* [Snapvocab](https://github.com/hoaraujerome/snapvocab) a side project that helps Mandarin learners focus on the most useful characters
+* [Small AWS infrastructure projects](https://github.com/hoaraujerome?tab=repositories)
+<!-- 
+* AI infrastructure experiments and early agent prototypes
+* Practical setups like VPNs (e.g., WireGuard) and secure networking
+-->
 
-## Why I write
-
-* To clarify my own thinking
-* To build a public portfolio of real-world engineering work
-* To share lessons learned (including mistakes)
-* To help other engineers facing similar problems
-
-I follow a simple principle:
-
-> If I had to figure it out the hard way, it’s worth documenting.
-
-## Current focus
-
-Right now, I’m particularly interested in:
-
-* Designing production-grade Kubernetes clusters from scratch
-* Improving platform reliability and automation
-* Exploring how AI integrates with infrastructure and DevOps workflows
-* Building reusable Terraform modules and patterns
+This list evolves as I experiment with new technologies and side projects.
 
 ## Outside of tech
 
-When I’m not working, I focus on staying active:
-
-* Running regularly (with structured progression)
-* Daily walking habits
+When I’m not working, I like to stay active and keep learning:
+* Running regularly
 * Strength workouts
+* Playing tennis
+* Hiking
+* Studying Mandarin
 
-I also enjoy traveling solo and discovering places where I can stay active year-round.
+I also enjoy traveling and exploring new foods along the way.
 
 ## Get in touch
 
-If you’d like to connect or discuss ideas, you can find me here:
+If you’d like to connect or discuss ideas:
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
-You can also reach out directly via email:
-
-* Email: [your@email.com](mailto:your@email.com)
+* [GitHub](https://github.com/hoaraujerome)
+* [LinkedIn](https://www.linkedin.com/in/hoaraujerome/?locale=en-US)
+* [Email](mailto:jeromehoarau0974@gmail.com)
 
 ---
 
-*This blog is a work in progress — just like my journey in tech.*
+*This blog is a work in progress, just like my journey in tech.*
