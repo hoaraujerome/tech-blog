@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Hi, I’m Jerome. A platform engineer with nearly 20 years of experience in software engineering across multiple countries.
+I’m Jerome — a platform engineer with nearly 20 years of experience in software engineering across multiple countries.
 
 I’ve worked in large-scale environments in banking, public sector systems, and distributed teams, gradually moving closer to infrastructure, platform engineering, Kubernetes, cloud (AWS, Azure), and Infrastructure as Code.
 
