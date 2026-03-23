@@ -1,0 +1,17 @@
+/* Justify text in post-content (home intro, blog lists, About, single posts) */
+.post-content {
+  text-align: justify;
+}
+
+.post-content p {
+  text-align: justify;
+}
+
+/* Consistent background on all pages (About, single posts match Home/Blog) */
+body:not(.list) {
+  background: var(--code-bg);
+}
+
+[data-theme="dark"] body:not(.list) {
+  background: var(--theme);
+}
