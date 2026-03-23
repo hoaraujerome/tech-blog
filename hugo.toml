@@ -5,6 +5,10 @@ copyright = "© 2026 Hoarau Jerome · Site last updated: March 2026"
 theme = 'PaperMod'
 enableRobotsTXT = true
 
+# Use consistent card styling for all posts (disable hero-style first post)
+[params]
+  disableSpecial1stPost = true
+
 # Author info
 [author]
   name = "Hoarau Jerome"
