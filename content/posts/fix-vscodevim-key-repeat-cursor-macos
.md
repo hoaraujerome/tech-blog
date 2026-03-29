@@ -1,5 +1,5 @@
 +++
-date = '2026-03-17T09:47:01-04:00'
+date = '2025-07-13T09:47:01-04:00'
 title = 'Fix Vim key repeat in Cursor, Zed, VS Code on macOS'
 +++
 
