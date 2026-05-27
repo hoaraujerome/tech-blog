@@ -1,7 +1,7 @@
 baseURL = 'https://hoaraujerome.github.io/tech-blog/'
 languageCode = 'en-us'
 title = 'Hoarau Jerome | Hands-on Cloud & Kubernetes'
-copyright = "© 2026 Hoarau Jerome · Site last updated: March 2026"
+copyright = "© 2026 Hoarau Jerome · Site last updated: May 2026"
 theme = 'PaperMod'
 enableRobotsTXT = true
 
