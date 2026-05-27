@@ -1,4 +1,4 @@
-baseURL = 'https://hoaraujerome.github.io/tech-blog/'
+baseURL = 'https://blog.hoaraujerome.com/'
 languageCode = 'en-us'
 title = 'Hoarau Jerome | Hands-on Cloud & Kubernetes'
 copyright = "© 2026 Hoarau Jerome · Site last updated: May 2026"
@@ -39,4 +39,4 @@ enableRobotsTXT = true
   weight = 2
 
 [environments.development]
-baseURL = 'http://localhost:1313/tech-blog/'
+baseURL = 'http://localhost:1313/'
