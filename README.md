@@ -10,8 +10,7 @@ git submodule update --init --recursive # needed when you reclone your repo (sub
 
 ## GitHub Pages Verified Domains
 
-* Settings > Pages > Verified domains > Add domain
-* Follow the instructions to verify your domain (aka TXT record creation)
+* tech-blog Repo Settings > Pages > Build and deployment > Custom domain
 
 ## License
 
