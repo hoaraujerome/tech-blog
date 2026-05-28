@@ -7,7 +7,7 @@ I write about Kubernetes, Cloud, Terraform, and infrastructure systems through h
 
 If you want practical, reproducible insights from someone learning as they go, you’ll likely feel at home here.
 
-Learn more about me on the [About](/tech-blog/about/) page.
+Learn more about me on the [About](/about/) page.
 
 ---
 
