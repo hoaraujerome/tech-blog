@@ -1,6 +1,5 @@
 +++
-date = '2026-05-29T14:52:52-04:00'
-draft = true
+date = '2026-05-30T14:52:52-04:00'
 title = 'When cert-manager Renews Your CA, Nothing Else Notices'
 +++
 
