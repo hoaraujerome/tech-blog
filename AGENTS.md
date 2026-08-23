@@ -1,7 +1,8 @@
 # AGENTS.md
 
-This is a Hugo-based static blog site using the PaperMod theme. It contains
-technical notes and articles on platform engineering, cloud, and infrastructure.
+This is a Hugo-based static blog site using the PaperMod theme. It hosts
+personal writing — experiences, opinions, and project announcements — not
+technical tutorials or how-to content.
 
 ## Project Structure
 
@@ -49,6 +50,14 @@ git submodule update --init --recursive  # Reinitialize submodules after clone
 # Manual verification: hugo server, navigate to posts, check rendering
 ```
 
+## Blogging Goals
+
+* Personal experiences
+* Opinions
+* Judgment about specific topics
+* Announcing projects
+* NO technical content since LLM
+
 ## Code Style Guidelines
 
 ### Page Focus
@@ -79,13 +88,12 @@ Frontmatter fields:
 
 ### Markdown Content
 - Use ATX-style headings (`##` not underline style)
-- Code blocks with language identifier for syntax highlighting
-- Use inline code for file paths, commands, and technical terms
 - Keep lines under 100 characters where practical
 - No emoji in content (plain text or HTML entities only)
+- Avoid code blocks, command snippets, and technical walkthroughs — LLMs cover that better
 
 ### File Naming
-- Post files: lowercase with hyphens (e.g., `fix-vscodevim-arrow-key-motion-macos.md`)
+- Post files: lowercase with hyphens (e.g., `why-i-shipped-project-x.md`)
 - New posts: `hugo new posts/your-post-title.md`
 
 ### Go Templates (layouts/)
@@ -102,10 +110,11 @@ Frontmatter fields:
 ## Content Guidelines
 
 ### Writing Style
-- Technical, concise, and practical
-- Focus on solutions and how-to guides
-- Include code examples with proper syntax highlighting
+- Personal, direct, and opinionated
+- Share experiences, judgments, and what you learned — not step-by-step instructions
+- Announce projects with context: why you built it, what you believe, what surprised you
 - Use clear, descriptive headings
+- Do not write tutorials, troubleshooting guides, or reference docs
 
 ### Licensing
 - Written content in `content/`: CC BY-NC 4.0
@@ -115,7 +124,6 @@ Frontmatter fields:
 ### SEO
 - Use descriptive titles (50-60 characters)
 - Include relevant keywords in frontmatter (optional)
-- Ensure code examples are complete and runnable
 
 ## Common Tasks
 
